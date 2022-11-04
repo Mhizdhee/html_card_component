@@ -1,0 +1,47 @@
+*{
+    overflow: hidden;
+    
+}
+
+
+td{
+    width:200px;
+    
+}
+
+
+.label{
+    font-weight: bold;
+
+}
+.input{
+    padding: 15px;
+}
+
+.headin{
+    color:aliceblue;
+}
+
+img{
+    border-radius: 50%;
+    /* margin: 40px; */
+}
+
+.container{
+    background-color: steelblue;
+    color: aliceblue;
+    padding: 0px 20px 0px 16px;
+    border:2px solid black;
+    width: 20%;
+    margin: 15px ;
+    border-radius: 20px;
+    line-height: 2;
+    
+}
+
+body{
+display: flex;
+
+padding: 10px;
+
+}
